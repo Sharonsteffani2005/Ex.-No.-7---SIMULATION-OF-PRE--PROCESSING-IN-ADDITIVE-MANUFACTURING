@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![empd1](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/4e0d60d8-f7d4-4f95-8575-8ba51316dd3d
+![empd1](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/7a866fe5-9912-4263-8f0a-b8d0edb5ccb1)
+
 typically involves preparing the CAD data for further analysis or manufacturing processes. This can include tasks such as cleaning up the geometry, simplifying complex models, and organizing the data for efficient processing.
 
 Here are some common preprocessing steps in CAD:

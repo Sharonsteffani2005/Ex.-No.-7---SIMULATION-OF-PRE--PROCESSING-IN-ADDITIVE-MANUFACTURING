@@ -44,6 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+### 1. CAD File
 ![empd1](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/7a866fe5-9912-4263-8f0a-b8d0edb5ccb1)
 
 typically involves preparing the CAD data for further analysis or manufacturing processes. This can include tasks such as cleaning up the geometry, simplifying complex models, and organizing the data for efficient processing.
@@ -80,7 +81,7 @@ Define any necessary boundary conditions for simulations, such as fixed points o
 Units and Scale:
 
 Check and set the correct units and scale for your project to ensure accurate analysis or manufacturing.
-
+### 2. Conversion to STL
 ![empd2](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/9d8fac06-cf97-426a-a36f-bd4719f0fbda)
 The process of converting a CAD model to an STL file involves several steps:
 
@@ -109,6 +110,7 @@ It's a good practice to import the STL file back into your CAD software or anoth
 Quality Control:
 
 Depending on the application, you may need to perform additional quality control checks, especially if the STL file is intended for 3D printing. Check for water-tightness and overall model integrity.
+### a. Orientation:
 ![empd3](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/8c72273f-9bb9-489c-bd4d-2d274ec3bdd5)
 Simulation:
 Mesh Orientation:
@@ -147,7 +149,7 @@ Use simulation results to validate and refine the design. Ensure that simulated 
 Iterative Process:
 
 Consider orientation as an iterative aspect of the design process. Refine orientation based on feedback from simulation results and manufacturability considerations.
-
+### b. Support Structure:
 ![empd4](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/86413d61-5850-447f-8f89-98357f506abd)
 Additive Manufacturing (3D Printing):
 Support Structures:
@@ -193,7 +195,7 @@ Consider Print Orientation:
 
 The orientation of the part on the print bed can influence the amount and location of required supports. Experiment with different print orientations to optimize support structures.
 Support structures are an essential aspect of additive manufacturing, balancing the need for intricate designs with the challenges of printing overhangs and complex shapes. 
-
+### c. Slicing:
 ![empd5](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/5639e8fd-beb6-47eb-9ce1-6117794029ec)
 "slicing" typically refers to the process of dividing a 3D model into thin, 2D layers for manufacturing. This term is commonly associated with additive manufacturing processes, such as 3D printing. Here's how slicing is involved in the preprocessing and manufacturing stages:
 
@@ -247,6 +249,7 @@ Layer Adhesion:
 
 Ensure proper layer adhesion by optimizing print temperature and other parameters. This is crucial for the structural integrity of the printed object.
 Slicing is a crucial step in the additive manufacturing process, influencing the quality, efficiency, and characteristics of the final product. 
+### d. Path Planning:
 ![empd6](https://github.com/Sharonsteffani2005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/23105271-a100-4330-91b6-3190e47ae887)
 
 path planning is involved in preprocessing and manufacturing:
